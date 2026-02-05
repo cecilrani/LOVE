@@ -11,6 +11,7 @@ btn.addEventListener("mouseover", () => {
 
 // If user manages to click
 btn.addEventListener("click", () => {
-  msg.textContent = "😲 Wow! You caught me di THANGO!";
+  msg.textContent = "😲 Wow! You caught me di THANGOo!";
 });
+
 
